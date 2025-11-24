@@ -30,6 +30,11 @@ This tutorial provides a detailed overview of the post-installation configuratio
 
 <h2>Configuration Steps</h2>
 
+Okay great! We have successfully configured osTicket from scratch. Now, we will perform some system administration tasks and complete the post-installation setup. The first thing is to acknowledge the admin panel, which is http://localhost/osTicket/scp/login.php, and the agent panel http://localhost/osTicket. Just paste them within the VM internet address bar whenever you want to access them. Now log into the admin panel, you have to configure Roles (for grouping permissions) by going to Admin Panel -> Agents -> Roles. We will create a Supreme Admin. Click on "Add new role," then enter supreme admin for the name of the new role. Then, within roles, select permissions and under tickets, check all the boxes, and the same thing for tasks and the knowledge base. Then you should select Add Role. If you followed the steps correctly, your screen should look something like this. As you can see, we have successfully created the "Supreme Admin" role.
+
+
+
+
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
