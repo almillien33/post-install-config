@@ -79,7 +79,7 @@ SLA plans provide a length of time in which the help desk is expected to take in
 <img width="2555" height="1397" alt="image" src="https://github.com/user-attachments/assets/8d0906b2-448b-46de-96fd-4b191f756846" />
 </p>
 <p>
-Now, configure help topics (For when users create a ticket). Help topics help users categorize their tickets, so go to Admin Panel -> Manage -> Help Topics and create a couple like Business Critical Outage, Personal Computer Issues, Equipment Request, Password Reset, and Other.
+Now, configure help topics (For when users create a ticket). Help topics help users categorize their tickets, so go to Admin Panel -> Manage -> Help Topics and create a couple like Personal Computer Issues, Equipment Request, Password Reset, and Other.
 </p>
 <br />
 
